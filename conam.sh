@@ -1,0 +1,1 @@
+ssh 10.10.1.254 -l firewall
